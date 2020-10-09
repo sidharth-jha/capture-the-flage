@@ -1,6 +1,6 @@
 const int pingPin_1 = 7; // Trigger Pin of Ultrasonic Sensor
 const int echoPin_1 = 6; // Echo Pin of Ultrasonic Sensor
-
+//Code achieves a CTF
 const int pingPin_2 = 9;
 const int echoPin_2 = 8;
 void setup()
